@@ -1,0 +1,22 @@
+config.py
+*allure-results
+Dockerfile
+
+# Environments
+.env
+/keytab
+/venv
+.venv/
+
+# Системные файлы macOS
+.DS_Store
+
+# Кэш-файлы Python
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Настройки среды разработки
+.idea/
+.vscode/
